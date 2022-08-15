@@ -55,7 +55,7 @@ Este proyecto se realizo durante la semana 7 del curso MIT-Fullstack developer, 
 :heavy_check_mark: Abrir la carpeta donde clonamos el repositorio;\
 :heavy_check_mark: Abrir en tu navegador de preferencia el archivo index HTML;
 :heavy_check_mark: Y Listo, comenzar a utilizar los controles disponibles en el GUI
-:rocket: Utilizando el <a href="#memo-license">Demo</a>
+:rocket: Utilizando el <a href="https://jlpm-mex.github.io/PacMenFactory/">Demo</a>
 
 ## :alarm_clock: Mejoras ##
 
