@@ -33,13 +33,14 @@
 <hr> -->
 
 <p align="center">
-  <a href="#dart-about">Descripcion</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Como Ejecutarlo</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
+  <a href="#dart-descripcion">Descripcion</a> &#xa0; | &#xa0; 
+  <a href="#sparkles-ejecucion">Ejecucion</a> &#xa0; | &#xa0;
+  <a href="#alarm_clock-mejoras">Mejoras</a> &#xa0; | &#xa0;
+  <a href="#rocket-software">Software</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requerimientos">Requerimientos</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-empezando">Empezando</a> &#xa0; | &#xa0;
+  <a href="#memo-licencia">Licencia</a> &#xa0; | &#xa0;
+  <a href="https://github.com/jlpm-mex" target="_blank">Author</a>
 </p>
 
 <br>
@@ -48,7 +49,7 @@
 
 Este proyecto se realizo durante la semana 7 del curso MIT-Fullstack developer, donde el objetivo era aprender sobre el DOM (document object Model), asi como a controlarlo de manera dinámica con javascript.
 
-## :sparkles: Como Ejecutarlo ##
+## :sparkles: Ejecucion ##
 
 :heavy_check_mark: Clonar el repositorio en el ambiente local;\
 :heavy_check_mark: Abrir la carpeta donde clonamos el repositorio;\
@@ -56,12 +57,12 @@ Este proyecto se realizo durante la semana 7 del curso MIT-Fullstack developer, 
 :heavy_check_mark: Y Listo, comenzar a utilizar los controles disponibles en el GUI
 :rocket: Utilizando el <a href="#memo-license">Demo</a>
 
-## :alarm_clock: Mejoras en el Futuro ##
+## :alarm_clock: Mejoras ##
 
 :large_blue_circle: Agregar un fondo mas adoc al proyecto
 :large_blue_circle: Crear PacMen con colores aleatorios
 
-## :rocket: Herramientas Utilizadas ##
+## :rocket: Software ##
 Las siguientes herramietas se utilizaron en este proyecto
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -82,12 +83,12 @@ $ cd workspace
 ejecutar index.html en un navegador
 
 
-## :memo: License ##
+## :memo: Licencia ##
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Jose Luis Pino</a>
+Made with :heart: by <a href="https://github.com/jlpm-mex" target="_blank">Jose Luis Pino</a>
 
 &#xa0;
 
