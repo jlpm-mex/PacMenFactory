@@ -51,10 +51,10 @@ Este proyecto se realizo durante la semana 7 del curso MIT-Fullstack developer, 
 
 ## :sparkles: Ejecucion ##
 
-:heavy_check_mark: Clonar el repositorio en el ambiente local;\
-:heavy_check_mark: Abrir la carpeta donde clonamos el repositorio;\
-:heavy_check_mark: Abrir en tu navegador de preferencia el archivo index HTML;
-:heavy_check_mark: Y Listo, comenzar a utilizar los controles disponibles en el GUI
+:heavy_check_mark: Clonar el repositorio en el ambiente local\
+:heavy_check_mark: Abrir la carpeta donde clonamos el repositorio\
+:heavy_check_mark: Abrir en tu navegador de preferencia el archivo index HTML\
+:heavy_check_mark: Y Listo, comenzar a utilizar los controles disponibles en el GUI\
 :rocket: Utilizando el <a href="https://jlpm-mex.github.io/PacMenFactory/">Demo</a>
 
 ## :alarm_clock: Mejoras ##
